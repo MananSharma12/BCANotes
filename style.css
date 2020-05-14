@@ -57,6 +57,10 @@ html{
   color:#00acee;
 }
 
+.fa-github{
+  color:#211F1F;
+}
+
 .fa-html5{
   color:#e54d26;
 }
@@ -73,11 +77,11 @@ html{
   color:#474A8A;
 }
 
-.fa-html5, .fa-css3, .fa-bootstrap, .fa-php, .fa-facebook-f, .fa-instagram, .fa-twitter{
+.fa-html5, .fa-css3, .fa-bootstrap, .fa-php, .fa-facebook-f, .fa-instagram, .fa-twitter, .fa-github{
   font-size: 3em;
 }
 
-.fa-facebook-f:hover, .fa-instagram:hover, .fa-twitter:hover{
+.fa-facebook-f:hover, .fa-instagram:hover, .fa-twitter:hover, .fa-github:hover{
   animation: spinAround 2s linear infinite;
   
   box-shadow: 0 0 0 4px rgba(255,255,255,1);
